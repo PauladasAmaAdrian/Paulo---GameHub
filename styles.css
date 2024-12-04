@@ -50,3 +50,7 @@ img {
 .categoria-video img {
     opacity: 0.5;
 }
+
+.categoria-video img:hover {
+    opacity: 1.0;
+}
